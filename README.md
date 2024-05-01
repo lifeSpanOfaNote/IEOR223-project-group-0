@@ -10,7 +10,9 @@ We require the following pakcages (open the following links for installation ins
 * Diffusers https://huggingface.co/docs/diffusers/en/installation
 
 Additionally, importing models and datasets from the Huggingface Diffusers Hub sometimes requires login to your Hugging Face account. Please login from the terminal using the following command, and enter a token (see https://huggingface.co/docs/hub/security-tokens)
-```huggingface-cli login```
+```shell
+huggingface-cli login
+```
 
 ## Diffusion model
 

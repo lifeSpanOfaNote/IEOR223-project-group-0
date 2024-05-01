@@ -1,9 +1,7 @@
 # IEOR223-project-group-0
 
-This repo contains the generative models for image generation and conditional generation. Specifically, it contains the following:
+This is the github repository of the IEOR223 2024 Spring course project of group 0.
 
-1. Diffusion model: We use diffusion models to generate images of the flower. This repo includes the .ipynb file for training, and the trained model weights for random generation.
+## Requirement
 
-We note that the dataset needs to be downloaded from the Hub by entering the following huggingface-cli login in terminal  
-3. VAE
-4. GAN and cGAN
+Please follow the instructions (https://huggingface.co/docs/diffusers/en/installation) to install `Diffusers`.

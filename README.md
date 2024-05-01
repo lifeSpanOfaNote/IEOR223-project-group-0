@@ -21,5 +21,5 @@ The folder `Diffusion_models` contains the following:
 
 * `image_diff.ipynb` is the notebook for creating and training a diffusion model on the ["YiwengXie/102_flowers_small"](https://huggingface.co/datasets/YiwengXie/102_flowers_small) dataset, starting from scratch.
 * The `diffusion_for_images_pretrained` folder contains sample images and model weights saved from our previous training processes.
-* `generate_from_pretrained_diff.ipynb` is the note book for generating new samples using the pretrained diffusion model
+* `generate_from_pretrained_diff.ipynb` is the note book for generating new samples using the pretrained diffusion model saved in `diffusion_for_images_pretrained`, through an [automized pipeline](https://huggingface.co/docs/diffusers/using-diffusers/write_own_pipeline).
 

@@ -9,10 +9,11 @@ We require the following pakcages (open the following links for installation ins
 * Pytorch https://pytorch.org/get-started/locally/
 * Diffusers https://huggingface.co/docs/diffusers/en/installation
 
-Additionally, importing models and datasets from the Huggingface Diffusers Hub sometimes requires login to your Hugging Face account. Please login from the terminal using the following command, and enter a token (see https://huggingface.co/docs/hub/security-tokens)
+Additionally, importing models and datasets from the Huggingface Diffusers Hub sometimes requires login to your Hugging Face account. Please login from the terminal using the following command,
 ```shell
 huggingface-cli login
 ```
+and enter a token. (see https://huggingface.co/docs/hub/security-tokens)
 
 ## Diffusion model
 

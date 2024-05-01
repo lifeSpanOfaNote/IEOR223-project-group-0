@@ -15,5 +15,9 @@ huggingface-cli login
 ```
 and enter a token. (see https://huggingface.co/docs/hub/security-tokens)
 
-## Diffusion model
+## Diffusion models
+
+The folder `Diffusion_models` contains the following:
+
+* `image_diff.ipynb` is the notebook for creating and training a diffusion model on the "YiwengXie/102_flowers_small" dataset, starting from scratch.
 

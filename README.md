@@ -28,5 +28,12 @@ The folder `Diffusion_models` contains the following:
 
 The folder `VAE` contains the following:
 
-* `VAE_with_IS_FID` is a notebook for creating, training and evaluating a diffusion model on the CIFAR-10 dataset from scratch.
+* `VAE_with_IS_FID.ipynb` is a notebook for creating, training and evaluating a VAE model on the CIFAR-10 dataset from scratch.
+
+## GAN
+
+The folder `GAN` contains the following:
+
+* `DCGAN.ipynb` is a notebook for creating, training and evaluating a DCGAN model on the ["YiwengXie/102_flowers_small"](https://huggingface.co/datasets/YiwengXie/102_flowers_small) dataset from scratch.
+
 

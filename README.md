@@ -35,18 +35,12 @@ The folder `VAE` contains the following:
 The folder `GAN` contains the following:
 
 * `DCGAN.ipynb` is a notebook for creating, training and evaluating a DCGAN model on the ["YiwengXie/102_flowers_small"](https://huggingface.co/datasets/YiwengXie/102_flowers_small) dataset from scratch.
-* cGAN.py: Training process
-
-model_edge2hats.py: the network structures
-
-ui_edge2hat.py: ui design of .exe and .app
-
-Data folder: hat data for training
-
-models folder: the entire model
-
-Result folder: evolution of images and comparison between edge, ground truth and generated images during the training.
-
-Due to file uploading restriction, the data and model can be downloaded from https://drive.google.com/file/d/1l4o-G7tUo4jmzIWLETKYNHmLQV5PMfBG/view?usp=drive_link
+* `cGAN.py`: Training process
+* `model_edge2hats.py`: the network structures
+* `ui_edge2hat.py`: ui design of .exe and .app
+* Data folder: hat data for training
+* models folder: the entire model
+* Result folder: evolution of images and comparison between edge, ground truth and generated images during the training.
+* Due to file uploading restriction, the data and model can be downloaded from https://drive.google.com/file/d/1l4o-G7tUo4jmzIWLETKYNHmLQV5PMfBG/view?usp=drive_link
 
 
